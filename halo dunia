@@ -1,0 +1,5 @@
+
+print("Halo, Dunia!")
+def halo(nama):
+ print(f"Halo, {nama}!")
+halo("GitHub")
